@@ -1,0 +1,2 @@
+# amdix
+Hello world !!
